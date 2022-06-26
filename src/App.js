@@ -58,7 +58,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className="Heading center">Todo list created by Animesh Shrivatri</div>
+      <div className="Heading center">Todo list created by Shikhar Srivastava</div>
       <form className="Form extremCenter">
         <TextField
           id="standard-basic"
