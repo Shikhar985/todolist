@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.extremCenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App{
+  padding: 18px;
+  display: flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Heading{
+  font-size: 1.2em;
+  font-weight: 600;
+  color: black;
+}
+
+.Form{
+  padding-top: 18px;
+}
+
+.Input{
+  width: 40%;
+}
+
+.InputButton{
+  margin-left: 10px;
+}
+/*width: "90vw", maxWidth: "500px", marginTop: "24px" */
+.ListItems{
+  width: 90vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+
+
+
+
+
